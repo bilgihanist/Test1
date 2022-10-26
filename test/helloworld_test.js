@@ -14,8 +14,6 @@ contract("Helloworld", accounts => {
         assert.equal(owner, accounts[0]);  // sahibin hesaplara eşit olmasını iddaa ediyoruz.
     })
 
-////
-
     /*
 contract("Helloworld", accounts => {
     //write the test
@@ -25,5 +23,8 @@ contract("Helloworld", accounts => { // herbiri için bu ifadelerden birden fazl
     //write the test
 })
 */
+
+//bu truffle 2 branchi
+
 
 })
