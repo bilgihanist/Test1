@@ -14,7 +14,7 @@ contract("Helloworld", accounts => {
         assert.equal(owner, accounts[0]);  // sahibin hesaplara eşit olmasını iddaa ediyoruz.
     })
 
-
+////
 
     /*
 contract("Helloworld", accounts => {
